@@ -97,10 +97,6 @@ This repository includes multiple demo projects to test performance and features
 
 ## 📸 Demo Preview
 
-## 📸 Demo Preview
-
-## 📸 Demo Preview
-
 <p align="center">
   <img src="Images/all.jpg" width="250">
   <img src="Images/cube.jpg" width="250">
