@@ -63,6 +63,43 @@ Install from Arduino Library Manager:
 
 ---
 
+## 🎮 Example Projects
+
+This repository includes multiple demo projects to test performance and features:
+
+### 🚀 3D Cube & Starfield Demo
+
+* Smooth 3D rendering
+* Starfield animation
+* High FPS SPI performance
+
+### 🎨 Color Test
+
+* Display color accuracy test
+* RGB rendering check
+
+### 🧪 Ultimate Color & Text Test
+
+* Font rendering
+* UI layout testing
+* Multi-size text display
+
+---
+
+## ▶️ How to Run Examples
+
+1. Open any example folder
+2. Open `.ino` file in Arduino IDE
+3. Select your board (ESP32 / ESP8266 / etc.)
+4. Upload and enjoy 🚀
+
+---
+
+## 📸 Demo Preview
+
+
+
+
 ## 📩 Contact
 
 For custom design / bulk order / support:
